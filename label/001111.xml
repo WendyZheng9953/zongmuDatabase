@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC2012</folder>
+  <filename>001111.jpg</filename>
+  <source>
+    <database>The LabelMe Object Detection Database</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>877</xmin>
+      <ymin>143</ymin>
+      <xmax>1197</xmax>
+      <ymax>347</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>front</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>878</xmin>
+      <ymin>197</ymin>
+      <xmax>919</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>rear</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1032</xmin>
+      <ymin>252</ymin>
+      <xmax>1111</xmax>
+      <ymax>340</ymax>
+    </bndbox>
+  </object>
+</annotation>
